@@ -1,0 +1,2 @@
+mvn install 生成Client
+创建测试类IndexController访问接口
